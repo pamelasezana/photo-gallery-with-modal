@@ -1,36 +1,45 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 📸 Photo Gallery
 
-## Getting Started
+Um projeto de galeria de fotos desenvolvido para aprimorar minhas habilidades em React. O usuário pode visualizar fotos em miniatura e, ao clicar em qualquer uma delas, a imagem é aberta em um modal para uma visualização ampliada. O modal pode ser fechado para retornar à galeria.
 
-First, run the development server:
+## 🚀 Tecnologias Utilizadas
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **React**: Biblioteca JavaScript para construção de interfaces de usuário.
+- **CSS**: Estilização das miniaturas e do modal.
+- **JavaScript**: Manipulação de eventos e lógica do modal.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📦 Instalação
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+1. Clone o repositório:
+    ```bash
+    git clone https://github.com/seu-usuario/photo-gallery.git
+    ```
+2. Navegue até o diretório do projeto:
+    ```bash
+    cd photo-gallery
+    ```
+3. Instale as dependências:
+    ```bash
+    npm install
+    ```
+4. Inicie o servidor de desenvolvimento:
+    ```bash
+    npm start
+    ```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## 🖼️ Funcionalidades
 
-## Learn More
+- Exibição de imagens em miniatura.
+- Clique em uma imagem para visualizar em um modal.
+- Fechamento do modal ao clicar fora da imagem ou no botão de fechar.
 
-To learn more about Next.js, take a look at the following resources:
+## 📝 Como Usar
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. Navegue pela galeria de fotos.
+2. Clique em qualquer foto para ampliá-la.
+3. Clique fora da imagem ou no ícone de fechar para retornar à galeria.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+## 🤝 Contribua
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Sinta-se à vontade para fazer um fork deste projeto, submeter issues ou enviar pull requests. 
