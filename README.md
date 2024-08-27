@@ -12,7 +12,7 @@ Um projeto de galeria de fotos desenvolvido para aprimorar minhas habilidades em
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/seu-usuario/photo-gallery.git
+    git clone https://github.com/pamelasezana/photo-gallery-with-modal.git
     ```
 2. Navegue até o diretório do projeto:
     ```bash
