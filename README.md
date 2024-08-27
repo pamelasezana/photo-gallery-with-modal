@@ -24,7 +24,7 @@ Um projeto de galeria de fotos desenvolvido para aprimorar minhas habilidades em
     ```
 4. Inicie o servidor de desenvolvimento:
     ```bash
-    npm start
+    npm run dev
     ```
 
 ## 🖼️ Funcionalidades
